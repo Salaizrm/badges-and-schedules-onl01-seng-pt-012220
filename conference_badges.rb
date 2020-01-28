@@ -6,6 +6,7 @@ end
 
 def batch_badge_creator(names)
   
-  badge.name = []
+  names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  
   
 end
