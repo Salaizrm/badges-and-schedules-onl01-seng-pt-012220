@@ -14,7 +14,7 @@ end
 
 def assign_rooms (attendees)
   
-  rooms = [1,2,3,4,5,6,7]
+  rooms = 0
   attendees.collect do |name|
   rooms += 1
   end
