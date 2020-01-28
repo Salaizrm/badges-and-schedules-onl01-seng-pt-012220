@@ -15,7 +15,7 @@ end
 def assign_rooms (attendees)
   
   rooms = []
-  
+  attendees.collect 
   
   
   
